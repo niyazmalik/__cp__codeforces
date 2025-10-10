@@ -8,6 +8,7 @@ void run() {
     int n;
     cin >> n;
     vector<int> p(n);
+    
     for(auto &ele : p) {
         cin >> ele;
         ele--;

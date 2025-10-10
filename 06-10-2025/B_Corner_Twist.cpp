@@ -7,6 +7,7 @@ using ll = long long;
 void run() {
     int n, m;
     cin >> n >> m;
+    
     vector<vector<int>> a(n, vector<int>(m)), b(n, vector<int>(m));
     for(int i = 0; i < n; i++) {
         string s;

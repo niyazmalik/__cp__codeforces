@@ -8,6 +8,7 @@ void run() {
     int a, b, c, d;
     cin >> a >> b >> c >> d;
     int win = 0;
+    
     for(int i = 0; i < 2; i++) {
         if((a > c && b >= d) || (a >= c && b > d)) win++;
         swap(a, b);
