@@ -7,6 +7,7 @@ using ll = long long;
 void run() {
     string s;
     cin >> s;
+    
     int a = s[0] - '0';
     int b = s[2] - '0';
     if(a > b && s[1] != '>') s[1] = '>';

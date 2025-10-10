@@ -7,6 +7,7 @@ using ll = long long;
 void run() {
     string s;
     cin >> s;
+    
     for(int i = 1; i < s.length(); i++) {
         if(s[i-1] == s[i]) {
             cout << s.substr(i-1, 2) << endl;

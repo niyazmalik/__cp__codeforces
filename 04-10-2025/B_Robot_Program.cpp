@@ -10,6 +10,7 @@ void run() {
     string s;
     cin >> s;
     ll ans = 0;
+    
     for(int i = 0; i < s.length(); i++) {
         x += s[i] == 'R' ? 1 : -1;
         k--;

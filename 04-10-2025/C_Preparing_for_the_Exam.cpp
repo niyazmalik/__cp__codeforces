@@ -8,6 +8,7 @@ void run() {
     int n, m, k;
     cin >> n >> m >> k;
     vector<int> a(m), aa(k);;
+    
     for(int i = 0; i < m; i++) {
         cin >> a[i];
     }
