@@ -7,6 +7,7 @@ using ll = long long;
 void run() {
     string x;
     cin >> x;
+    
     if(x[0] > '1' || x[x.length()-1] == '9') {
         cout << "NO" << endl;
         return;

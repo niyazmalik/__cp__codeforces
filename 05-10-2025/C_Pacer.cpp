@@ -7,6 +7,7 @@ using ll = long long;
 void run() {
     int n, m;
     cin >> n >> m;
+    
     // int ans = 0;
     // int prev = -1;
     // bool start = true;

@@ -9,6 +9,7 @@ void run() {
     cin >> n;
     string s;
     cin >> s;
+    
     int zz = 0, oo = 0;
     for(int i = 0; i < n; i++) {
         if(s[i] == '0') {

@@ -8,6 +8,7 @@ void run() {
     int n;
     cin >> n;
     vector<int> a(n), b(n);
+    
     for(auto &ele : a) cin >> ele;
     for(auto &ele : b) cin >> ele;
     int ans = a[n-1];

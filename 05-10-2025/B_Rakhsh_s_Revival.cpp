@@ -9,6 +9,7 @@ void run() {
     cin >> n >> m >> k;
     string s;
     cin >> s;
+    
     int ans = 0;
     int cnt = 0;
     for(int i = 0; i < n; i++) {

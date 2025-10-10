@@ -8,6 +8,7 @@ void run() {
     int n, q;
     cin >> n >> q;
     vector<ll> a(n), k(q);
+    
     for(auto &ele : a) cin >> ele;
     for(auto &ele : k) cin >> ele;
 
