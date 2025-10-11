@@ -10,3 +10,5 @@ WOULD BE INTRESTING TO SEE THAT HOW AM I GONNA FEEL WHEN I READ THESE LATER ON..
 Here is my pic of today's morning just after getting some good words from my dear mother....I tried to take it at good angle...and this is what I got...(also didn't wash my face for over 3 days I guess)...
 
 ![Hmmm...](assets/11-10-2025.jpg)
+
+**09:54 PM** : solved 4 problems only...and hopefully I will sleep early and then wake up early tomorrow...BTW listening to S.A.W audio edit...shouldn't be listening to music and I pray for guidance and when I look back into these till then I should have become more patient and controlled man.
